@@ -1,0 +1,42 @@
+[
+  {
+    "id": "SHP001",
+    "destination": "Ciudad de México",
+    "status": "Pendiente"
+  },
+  {
+    "id": "SHP002",
+    "destination": "Guadalajara",
+    "status": "En tránsito"
+  },
+  {
+    "id": "SHP003",
+    "destination": "Monterrey",
+    "status": "Entregado"
+  },
+  {
+    "id": "SHP004",
+    "destination": "Veracruz",
+    "status": "En tránsito"
+  },
+  {
+    "id": "SHP005",
+    "destination": "Toluca",
+    "status": "Pendiente"
+  },
+  {
+    "id": "SHP006",
+    "destination": "Querétaro",
+    "status": "Entregado"
+  },
+  {
+    "id": "SHP007",
+    "destination": "Puebla",
+    "status": "Pendiente"
+  },
+  {
+    "id": "SHP008",
+    "destination": "Tijuana",
+    "status": "En tránsito"
+  }
+]
